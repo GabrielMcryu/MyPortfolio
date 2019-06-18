@@ -144,6 +144,20 @@ main {
     color: #333;
 }
 
+.projects-info {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+    img {
+        width: 80%;
+    }
+}
+
+.phead {
+    text-align: center;
+}
+
 // Contact Page
 .boxes {
     display: flex;
